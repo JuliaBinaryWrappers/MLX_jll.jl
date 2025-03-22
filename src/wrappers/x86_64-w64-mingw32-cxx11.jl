@@ -2,11 +2,12 @@
 export libmlx, mlx_mlx_h
 
 using libblastrampoline_jll
+using OpenMPI_jll
 JLLWrappers.@generate_wrapper_header("MLX")
 JLLWrappers.@declare_library_product(libmlx, "libmlx.dll")
 JLLWrappers.@declare_file_product(mlx_mlx_h)
 function __init__()
-    JLLWrappers.@generate_init_header(libblastrampoline_jll)
+    JLLWrappers.@generate_init_header(libblastrampoline_jll, OpenMPI_jll)
     JLLWrappers.@init_library_product(
         libmlx,
         "bin\\libmlx.dll",
