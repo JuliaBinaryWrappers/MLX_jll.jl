@@ -1,316 +1,316 @@
 [[MLX]]
 arch = "aarch64"
-git-tree-sha1 = "0ded0591698e55796942f2857d6ff17837c21af8"
+git-tree-sha1 = "657bd6139f6caafacfa72e3602ecdc5c086b1b2e"
 os = "macos"
 
     [[MLX.download]]
-    sha256 = "7103a3130d3b6750831251d133dc12898befaf7154be1a997bf15b47c8f2717b"
-    url = "https://github.com/JuliaBinaryWrappers/MLX_jll.jl/releases/download/MLX-v0.24.2+0/MLX.v0.24.2.aarch64-apple-darwin.tar.gz"
+    sha256 = "a20bfd790883ba7bf660d220c49bdce09914e3914fa39fad8b9f2a2262e20d1b"
+    url = "https://github.com/JuliaBinaryWrappers/MLX_jll.jl/releases/download/MLX-v0.25.1+0/MLX.v0.25.1.aarch64-apple-darwin.tar.gz"
 [[MLX]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "bf97225b3bac6228074fb3d306f2ae5b5a6946de"
+git-tree-sha1 = "27382ba5bf3b454e3fe6388c8f1030723e48dcac"
 libc = "glibc"
 os = "linux"
 
     [[MLX.download]]
-    sha256 = "13387c3e3700971d9d9f10e3ff6fe8b908dd431e4633369125add3ba17609f6d"
-    url = "https://github.com/JuliaBinaryWrappers/MLX_jll.jl/releases/download/MLX-v0.24.2+0/MLX.v0.24.2.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "a8434bda5536ebe7cf675ec751c52e216d1766343cb3470e3961f5d29aa06c52"
+    url = "https://github.com/JuliaBinaryWrappers/MLX_jll.jl/releases/download/MLX-v0.25.1+0/MLX.v0.25.1.aarch64-linux-gnu-cxx03.tar.gz"
 [[MLX]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c1cac7590bf7d41cb0e24192d7649c0517e56591"
+git-tree-sha1 = "c34c0df1ce46315c5f41273452b111f8a8e0d7c1"
 libc = "glibc"
 os = "linux"
 
     [[MLX.download]]
-    sha256 = "cf4222c32ba7d009587236528f4895ca9357ead0be4260f215c3e96a6f477c91"
-    url = "https://github.com/JuliaBinaryWrappers/MLX_jll.jl/releases/download/MLX-v0.24.2+0/MLX.v0.24.2.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "21687ada62040c1f451d3f8faa694d155406d1e07c892139fb61a9c5b1c74fca"
+    url = "https://github.com/JuliaBinaryWrappers/MLX_jll.jl/releases/download/MLX-v0.25.1+0/MLX.v0.25.1.aarch64-linux-gnu-cxx11.tar.gz"
 [[MLX]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "dd51489cc6b37851558cd7577d059b41f075dccf"
+git-tree-sha1 = "c22c47e65916b87f2a91d23df0f19657a40cb190"
 libc = "musl"
 os = "linux"
 
     [[MLX.download]]
-    sha256 = "f5a81a592c01b018148629f663f21b7bebebe178946358b5cb43c6891054e743"
-    url = "https://github.com/JuliaBinaryWrappers/MLX_jll.jl/releases/download/MLX-v0.24.2+0/MLX.v0.24.2.aarch64-linux-musl-cxx03.tar.gz"
+    sha256 = "a415cd0f2ce7040016acdab4a837cdaae1bb90a7e19a3dc605625516746a3bef"
+    url = "https://github.com/JuliaBinaryWrappers/MLX_jll.jl/releases/download/MLX-v0.25.1+0/MLX.v0.25.1.aarch64-linux-musl-cxx03.tar.gz"
 [[MLX]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d56f0270412965c3c50de4ca9a660a12e437908b"
+git-tree-sha1 = "5d747643593125406ebbd7e5c2c4db9c5975b059"
 libc = "musl"
 os = "linux"
 
     [[MLX.download]]
-    sha256 = "0b8cdec3fc5e7fe2f73ce7adfe45473a8ffe2a17c157b3a8e125c3da7963c5d2"
-    url = "https://github.com/JuliaBinaryWrappers/MLX_jll.jl/releases/download/MLX-v0.24.2+0/MLX.v0.24.2.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "e04850dbaed6970a1ea120ec1ba1d4c57ca95befd78e838bebffaee3f891774f"
+    url = "https://github.com/JuliaBinaryWrappers/MLX_jll.jl/releases/download/MLX-v0.25.1+0/MLX.v0.25.1.aarch64-linux-musl-cxx11.tar.gz"
 [[MLX]]
 arch = "aarch64"
-git-tree-sha1 = "4334daaeaae4da9af964a2d9f830f64a10eda4fa"
+git-tree-sha1 = "092c417f6e9010b4a512b3b7f5db45aaf156dfba"
 os = "freebsd"
 
     [[MLX.download]]
-    sha256 = "80367f91e8415f1b5e60ac655cb186f6295a1c6007fd6894cb8403e1acdee022"
-    url = "https://github.com/JuliaBinaryWrappers/MLX_jll.jl/releases/download/MLX-v0.24.2+0/MLX.v0.24.2.aarch64-unknown-freebsd.tar.gz"
+    sha256 = "3b2a2f998263cf7c21dac225b66a671ef3ff71e241f92c3cdaabdb84a8f0b077"
+    url = "https://github.com/JuliaBinaryWrappers/MLX_jll.jl/releases/download/MLX-v0.25.1+0/MLX.v0.25.1.aarch64-unknown-freebsd.tar.gz"
 [[MLX]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "28fb90d4583982c6b5a2ba3d2a5be015aca8d96a"
+git-tree-sha1 = "475b6792a417981d3395c0cca5a764c78143cc6a"
 libc = "glibc"
 os = "linux"
 
     [[MLX.download]]
-    sha256 = "7cd1a1f0baa70921355661715c9c77ed606aed7f54dd18e09b96a6dcda6e3d30"
-    url = "https://github.com/JuliaBinaryWrappers/MLX_jll.jl/releases/download/MLX-v0.24.2+0/MLX.v0.24.2.armv6l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "e4533425bea7ce90f53685f39f18f59ffda36dac82dfe7d7781b769bf16e161e"
+    url = "https://github.com/JuliaBinaryWrappers/MLX_jll.jl/releases/download/MLX-v0.25.1+0/MLX.v0.25.1.armv6l-linux-gnueabihf-cxx03.tar.gz"
 [[MLX]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a564234f37808c3761cf2810b9b8653e3abc1071"
+git-tree-sha1 = "8008d0ac40e38e1d75c5313ca1eee4ebfed10813"
 libc = "glibc"
 os = "linux"
 
     [[MLX.download]]
-    sha256 = "5641e167f0bfd58458f918294e13616ce75877e03aa82577bafdb045a45fdd9d"
-    url = "https://github.com/JuliaBinaryWrappers/MLX_jll.jl/releases/download/MLX-v0.24.2+0/MLX.v0.24.2.armv6l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "dd1b6da04fb135876f89f55bee2cd0b4f75b48c30d25c6a158de6982d4637ec2"
+    url = "https://github.com/JuliaBinaryWrappers/MLX_jll.jl/releases/download/MLX-v0.25.1+0/MLX.v0.25.1.armv6l-linux-gnueabihf-cxx11.tar.gz"
 [[MLX]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "9536e5b49c73f7227fdc58fbeacd6e5cc271cb42"
+git-tree-sha1 = "1cc01973d1989e46ef73e91b226b142b3399b11b"
 libc = "musl"
 os = "linux"
 
     [[MLX.download]]
-    sha256 = "3eaec9eaecaee97da473e94d283a3d054a724e9c7900a4f6dd0c233c68119c86"
-    url = "https://github.com/JuliaBinaryWrappers/MLX_jll.jl/releases/download/MLX-v0.24.2+0/MLX.v0.24.2.armv6l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "555dc9a39fbaa2b6568af9d9b6fc71cc0797da6aead0b028388b53b721f00f22"
+    url = "https://github.com/JuliaBinaryWrappers/MLX_jll.jl/releases/download/MLX-v0.25.1+0/MLX.v0.25.1.armv6l-linux-musleabihf-cxx03.tar.gz"
 [[MLX]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "16e338bf97bf12e1251b9f22b6d667945740a89a"
+git-tree-sha1 = "9f5d3071984e8a03d69593f5c6c6dd4ab271f67a"
 libc = "musl"
 os = "linux"
 
     [[MLX.download]]
-    sha256 = "3dba581525d1cbd7cdadb0b564e935c8e29c286509b3b502a3d18735d9cff1a1"
-    url = "https://github.com/JuliaBinaryWrappers/MLX_jll.jl/releases/download/MLX-v0.24.2+0/MLX.v0.24.2.armv6l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "2f6d57c135127a4e60603555fa135e50a4cc53048bbdb7e5bdbb12fc05797350"
+    url = "https://github.com/JuliaBinaryWrappers/MLX_jll.jl/releases/download/MLX-v0.25.1+0/MLX.v0.25.1.armv6l-linux-musleabihf-cxx11.tar.gz"
 [[MLX]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "6b44f5520bd2baa2b23fc1cf819a2fb69f82bc65"
+git-tree-sha1 = "cdd0a0008b281470924c97fd4f9b71c6552eaa1a"
 libc = "glibc"
 os = "linux"
 
     [[MLX.download]]
-    sha256 = "ebae20a8d3f11f5d90039ebd2dc882ce982e9814880856a94bb86d66f48a8d89"
-    url = "https://github.com/JuliaBinaryWrappers/MLX_jll.jl/releases/download/MLX-v0.24.2+0/MLX.v0.24.2.armv7l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "26951d153e4f81c0c690bacb5af2197864264bfc7f3b322eb9affd9a3710fc03"
+    url = "https://github.com/JuliaBinaryWrappers/MLX_jll.jl/releases/download/MLX-v0.25.1+0/MLX.v0.25.1.armv7l-linux-gnueabihf-cxx03.tar.gz"
 [[MLX]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4822ac10517f83199b6a4323976e468ccd6cd6f2"
+git-tree-sha1 = "01c165b0aeeb748a42d93e0d96abb2df059278d8"
 libc = "glibc"
 os = "linux"
 
     [[MLX.download]]
-    sha256 = "30a07ab2e5d62efac561dcdf6e069933f33614c17253be7f51c74487b48c9e63"
-    url = "https://github.com/JuliaBinaryWrappers/MLX_jll.jl/releases/download/MLX-v0.24.2+0/MLX.v0.24.2.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "f81bd9a04aace3557bb9123b2329f1c9f4e6cee475f2ec040480f5b6b7f565fb"
+    url = "https://github.com/JuliaBinaryWrappers/MLX_jll.jl/releases/download/MLX-v0.25.1+0/MLX.v0.25.1.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[MLX]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "226e0ce54cfaa49168461a33f9e8d9d09c162c9f"
+git-tree-sha1 = "42a40c523e6a25190959d7034751b69cb2da6a19"
 libc = "musl"
 os = "linux"
 
     [[MLX.download]]
-    sha256 = "5fd2f17fc7222d27f80f088b8369433541174f1c5eff4ca29d718f34d2ee8b57"
-    url = "https://github.com/JuliaBinaryWrappers/MLX_jll.jl/releases/download/MLX-v0.24.2+0/MLX.v0.24.2.armv7l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "7654d4377befb9fb205b7e7653477d1bf59f21ea93c2f6c66697c6e3fce26ba6"
+    url = "https://github.com/JuliaBinaryWrappers/MLX_jll.jl/releases/download/MLX-v0.25.1+0/MLX.v0.25.1.armv7l-linux-musleabihf-cxx03.tar.gz"
 [[MLX]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "50ed13d67fcafb311e25ef9e28e01868e04fd520"
+git-tree-sha1 = "c28d2c0a2230fe53c40470b957c8dc0117f975f1"
 libc = "musl"
 os = "linux"
 
     [[MLX.download]]
-    sha256 = "f36c1ac6033f424237d8f8d5972051384fe663e456304c55c186147fff6772a9"
-    url = "https://github.com/JuliaBinaryWrappers/MLX_jll.jl/releases/download/MLX-v0.24.2+0/MLX.v0.24.2.armv7l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "4de0c8436a22df1984630afe16419a73ae4fbc97276d288ebb1070c944baa605"
+    url = "https://github.com/JuliaBinaryWrappers/MLX_jll.jl/releases/download/MLX-v0.25.1+0/MLX.v0.25.1.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[MLX]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "c991fddc318ac5a83871bda096ea25e7f1fd1aea"
+git-tree-sha1 = "428f47b937ffe3e7443ed6b5bf4b12c515294cb8"
 libc = "glibc"
 os = "linux"
 
     [[MLX.download]]
-    sha256 = "362c725b0937d8ea0c6e6321aa3001ec1688c42ea8297403fa4e1ae31a337e98"
-    url = "https://github.com/JuliaBinaryWrappers/MLX_jll.jl/releases/download/MLX-v0.24.2+0/MLX.v0.24.2.i686-linux-gnu-cxx03.tar.gz"
+    sha256 = "6a9501cafd881758dcd64b05654ca9ad334d49fdd4c6e709e4bdc377efd26fd8"
+    url = "https://github.com/JuliaBinaryWrappers/MLX_jll.jl/releases/download/MLX-v0.25.1+0/MLX.v0.25.1.i686-linux-gnu-cxx03.tar.gz"
 [[MLX]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "96d7ed2932e13291ac2a5eacab8190c64683db0c"
+git-tree-sha1 = "2010e28efac37e077dc02e1f84750a136add561c"
 libc = "glibc"
 os = "linux"
 
     [[MLX.download]]
-    sha256 = "d80ab0467294090afe0005e833b585116ca2bbf45d3345fd1e4b086b65146a4b"
-    url = "https://github.com/JuliaBinaryWrappers/MLX_jll.jl/releases/download/MLX-v0.24.2+0/MLX.v0.24.2.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "b571d9ee0025177b2877e547fbb676b39507aada4f8da62423c76e59ac3cc6f2"
+    url = "https://github.com/JuliaBinaryWrappers/MLX_jll.jl/releases/download/MLX-v0.25.1+0/MLX.v0.25.1.i686-linux-gnu-cxx11.tar.gz"
 [[MLX]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "f043360ebe3c1b911132d657ee47448a337d8fe7"
+git-tree-sha1 = "3b9c49434d47e2ac5562da2fbb7fd0840de647aa"
 libc = "musl"
 os = "linux"
 
     [[MLX.download]]
-    sha256 = "a34f423c0e89c7c4f020211b9ffb61484353f6d2f060f5446e7a327afe062f79"
-    url = "https://github.com/JuliaBinaryWrappers/MLX_jll.jl/releases/download/MLX-v0.24.2+0/MLX.v0.24.2.i686-linux-musl-cxx03.tar.gz"
+    sha256 = "148f150fe4a16f0064a681362c2d0e05d97a58acff35eb6ee9b547508a2fa733"
+    url = "https://github.com/JuliaBinaryWrappers/MLX_jll.jl/releases/download/MLX-v0.25.1+0/MLX.v0.25.1.i686-linux-musl-cxx03.tar.gz"
 [[MLX]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ad4b675526bb96e4285bb720f9b1f56f48252704"
+git-tree-sha1 = "9b88a45a15f66416d24c40aa145988a71b4f9435"
 libc = "musl"
 os = "linux"
 
     [[MLX.download]]
-    sha256 = "f35af8d21cfcb6603160b33797726813388445c35b404dc60b1b02eaf7779476"
-    url = "https://github.com/JuliaBinaryWrappers/MLX_jll.jl/releases/download/MLX-v0.24.2+0/MLX.v0.24.2.i686-linux-musl-cxx11.tar.gz"
+    sha256 = "248626c79942ba48d3d0b3db6d45a58dfec4be002ca4ddc77723533a0c2b537f"
+    url = "https://github.com/JuliaBinaryWrappers/MLX_jll.jl/releases/download/MLX-v0.25.1+0/MLX.v0.25.1.i686-linux-musl-cxx11.tar.gz"
 [[MLX]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "fecf55f1f00905fc9a2e9122ee0d84a81d36fbb3"
+git-tree-sha1 = "01a0456565bb64058016721efd3a0bd7224cf2d3"
 os = "windows"
 
     [[MLX.download]]
-    sha256 = "a25c9227e542c4e956e2970789bc10f02a6395fbcfe26ae0a1a1a1f7997feace"
-    url = "https://github.com/JuliaBinaryWrappers/MLX_jll.jl/releases/download/MLX-v0.24.2+0/MLX.v0.24.2.i686-w64-mingw32-cxx03.tar.gz"
+    sha256 = "62e25e1ffe8c82cb3e5203fbdde8da64b86c7b45424f66926efd40b334f782ae"
+    url = "https://github.com/JuliaBinaryWrappers/MLX_jll.jl/releases/download/MLX-v0.25.1+0/MLX.v0.25.1.i686-w64-mingw32-cxx03.tar.gz"
 [[MLX]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "3059c877c7fc69c759b7d71db520ae1a0c623aa2"
+git-tree-sha1 = "2a4a179f71c3b35f37f42070284d6aecdf0ba00a"
 os = "windows"
 
     [[MLX.download]]
-    sha256 = "b37e7644497bdec981ad410543a654a73c8b8822f8eae5f350260e3d9a3c99e8"
-    url = "https://github.com/JuliaBinaryWrappers/MLX_jll.jl/releases/download/MLX-v0.24.2+0/MLX.v0.24.2.i686-w64-mingw32-cxx11.tar.gz"
+    sha256 = "5ac4f45f18015d36df8b70d3a97373314216ef82d3bb13e1d86912419845fa48"
+    url = "https://github.com/JuliaBinaryWrappers/MLX_jll.jl/releases/download/MLX-v0.25.1+0/MLX.v0.25.1.i686-w64-mingw32-cxx11.tar.gz"
 [[MLX]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "4269ad02b6def001168b7d9ff127aa38b6fa8c58"
+git-tree-sha1 = "cfd45525b40896430436e1441509663b42a82e35"
 libc = "glibc"
 os = "linux"
 
     [[MLX.download]]
-    sha256 = "4a816fd8bd66714a4e3b9d4cdbd66e41a936534ccdb5f041fff7275f508d053b"
-    url = "https://github.com/JuliaBinaryWrappers/MLX_jll.jl/releases/download/MLX-v0.24.2+0/MLX.v0.24.2.powerpc64le-linux-gnu-cxx03.tar.gz"
+    sha256 = "48e826827c6dac3d6760bbe50532a6cc4d8a05980ba6f51e081d6866ee2e0065"
+    url = "https://github.com/JuliaBinaryWrappers/MLX_jll.jl/releases/download/MLX-v0.25.1+0/MLX.v0.25.1.powerpc64le-linux-gnu-cxx03.tar.gz"
 [[MLX]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f326c47d1b62021b33be632d7b6174862c8b90eb"
+git-tree-sha1 = "cc8b08f7bd3d9365f8c9ea8d3472730c279191e1"
 libc = "glibc"
 os = "linux"
 
     [[MLX.download]]
-    sha256 = "359457fb37f74be2d62b0b261c3d167bdbb69d50f756284134d068b718fe28d5"
-    url = "https://github.com/JuliaBinaryWrappers/MLX_jll.jl/releases/download/MLX-v0.24.2+0/MLX.v0.24.2.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "fbb94d53f8e5259717eb31ae327c7c75d707d4d1923ec203c6b8040e8590e6f2"
+    url = "https://github.com/JuliaBinaryWrappers/MLX_jll.jl/releases/download/MLX-v0.25.1+0/MLX.v0.25.1.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[MLX]]
 arch = "riscv64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "80b760e00f8d5f34fc86ff58183dbb54a2725844"
+git-tree-sha1 = "3f3f92bbf82bb7ba197078bd69aafa3a79e06792"
 libc = "glibc"
 os = "linux"
 
     [[MLX.download]]
-    sha256 = "11c49207b7cc67b93d42146e827f7cf3cc423cc5a09c59cb417223149b8ce92b"
-    url = "https://github.com/JuliaBinaryWrappers/MLX_jll.jl/releases/download/MLX-v0.24.2+0/MLX.v0.24.2.riscv64-linux-gnu-cxx03.tar.gz"
+    sha256 = "a69b86036b1b70d2b6d6d4b6fad5bfabce6571952d854a1056f7e1194591d352"
+    url = "https://github.com/JuliaBinaryWrappers/MLX_jll.jl/releases/download/MLX-v0.25.1+0/MLX.v0.25.1.riscv64-linux-gnu-cxx03.tar.gz"
 [[MLX]]
 arch = "riscv64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b3a0f5b1ff12fff8550778090082bfad852cfd40"
+git-tree-sha1 = "ff91d73dc6c68360bd39bb862154f547188f4bb8"
 libc = "glibc"
 os = "linux"
 
     [[MLX.download]]
-    sha256 = "afc6eb35bbaca6894b8b6e378b2b2f6abba405ec14a71347c3d35b9da23be4b7"
-    url = "https://github.com/JuliaBinaryWrappers/MLX_jll.jl/releases/download/MLX-v0.24.2+0/MLX.v0.24.2.riscv64-linux-gnu-cxx11.tar.gz"
+    sha256 = "84835edbc4cacf08c6915b2e8df25ef7f096bb51874c926cc5b95416bf0b2010"
+    url = "https://github.com/JuliaBinaryWrappers/MLX_jll.jl/releases/download/MLX-v0.25.1+0/MLX.v0.25.1.riscv64-linux-gnu-cxx11.tar.gz"
 [[MLX]]
 arch = "x86_64"
-git-tree-sha1 = "55d1e14dea888a655d187bd29c4f25b6e5e567ae"
+git-tree-sha1 = "66ca2143c86118e5ff41327580ea9641a9a86000"
 os = "macos"
 
     [[MLX.download]]
-    sha256 = "7853c8d59eb24364135e89ff3b4c8b2a5d438ed304205d0222094ef32fb53373"
-    url = "https://github.com/JuliaBinaryWrappers/MLX_jll.jl/releases/download/MLX-v0.24.2+0/MLX.v0.24.2.x86_64-apple-darwin.tar.gz"
+    sha256 = "58e36819246d57ef61287f46326bc91cd457dc48e9fbd092e8f3f92aa03417e2"
+    url = "https://github.com/JuliaBinaryWrappers/MLX_jll.jl/releases/download/MLX-v0.25.1+0/MLX.v0.25.1.x86_64-apple-darwin.tar.gz"
 [[MLX]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "5b0f4ca2fac35671627290ded970a2156f4a917d"
+git-tree-sha1 = "eaa888b47694b50521312d7321fbc66479b780dd"
 libc = "glibc"
 os = "linux"
 
     [[MLX.download]]
-    sha256 = "ac4019615bf0648aad01e61582c9c505fba6d7cf195ecd526161c1af5c5f04bb"
-    url = "https://github.com/JuliaBinaryWrappers/MLX_jll.jl/releases/download/MLX-v0.24.2+0/MLX.v0.24.2.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "36ffca2442490234500bdcf4372e4c6e536194a035cf5dd7c14d4ac3011922e3"
+    url = "https://github.com/JuliaBinaryWrappers/MLX_jll.jl/releases/download/MLX-v0.25.1+0/MLX.v0.25.1.x86_64-linux-gnu-cxx03.tar.gz"
 [[MLX]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "8809eff2802f7ab9f3d3590acad65be9a20e10e2"
+git-tree-sha1 = "c9d06ea051193e9cc4b1986e091c82a90568ef9c"
 libc = "glibc"
 os = "linux"
 
     [[MLX.download]]
-    sha256 = "338305bba206b9e4d336e3705b3a70168940da3bea1767bc5558274b0a244df4"
-    url = "https://github.com/JuliaBinaryWrappers/MLX_jll.jl/releases/download/MLX-v0.24.2+0/MLX.v0.24.2.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "266aad1f4c4e0a43200191e0dbf02e36cf77fbe7bb967fe89a868e5fac515f40"
+    url = "https://github.com/JuliaBinaryWrappers/MLX_jll.jl/releases/download/MLX-v0.25.1+0/MLX.v0.25.1.x86_64-linux-gnu-cxx11.tar.gz"
 [[MLX]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "52446a93feae66da2853b21d938835bbe5415c66"
+git-tree-sha1 = "b773613ca39fc9c8302f41d343c4fcff3b4d9800"
 libc = "musl"
 os = "linux"
 
     [[MLX.download]]
-    sha256 = "3652c3274c206ee1786e89f462115ed7fe6b2eb45da82e593f1d7d9e9a84a35b"
-    url = "https://github.com/JuliaBinaryWrappers/MLX_jll.jl/releases/download/MLX-v0.24.2+0/MLX.v0.24.2.x86_64-linux-musl-cxx03.tar.gz"
+    sha256 = "7687e8e86a3355494e60002287d4705b2966c98f6bf33231e7def432f8f293ff"
+    url = "https://github.com/JuliaBinaryWrappers/MLX_jll.jl/releases/download/MLX-v0.25.1+0/MLX.v0.25.1.x86_64-linux-musl-cxx03.tar.gz"
 [[MLX]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "7cb47d3d32665fba0168ed9bd63385eac8458419"
+git-tree-sha1 = "ed07edec164dbc95ebe2e49f811efa81331a796e"
 libc = "musl"
 os = "linux"
 
     [[MLX.download]]
-    sha256 = "038c756e4b699f4ed145d577fcdba820081ff0df281f48b1c8b85f06a9ab6644"
-    url = "https://github.com/JuliaBinaryWrappers/MLX_jll.jl/releases/download/MLX-v0.24.2+0/MLX.v0.24.2.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "13fdd69ea51e66ff1a45aaa49e086c62aead09d4357ae020d85f44084e9ccc41"
+    url = "https://github.com/JuliaBinaryWrappers/MLX_jll.jl/releases/download/MLX-v0.25.1+0/MLX.v0.25.1.x86_64-linux-musl-cxx11.tar.gz"
 [[MLX]]
 arch = "x86_64"
-git-tree-sha1 = "75b8470f9e8e3b97a3ea17b509d7fb61ed260e7a"
+git-tree-sha1 = "61a1239e5c5d5e0b93304c23b8f7cad070f6a4c4"
 os = "freebsd"
 
     [[MLX.download]]
-    sha256 = "c6bbbd1a893b9615ce2f9cc8c6552fe201ffd59dc400c0345684dcd891c6f031"
-    url = "https://github.com/JuliaBinaryWrappers/MLX_jll.jl/releases/download/MLX-v0.24.2+0/MLX.v0.24.2.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "f93686b20d6508decef9a60f0ed790421118bc0da87c9295dddae19a57a64adf"
+    url = "https://github.com/JuliaBinaryWrappers/MLX_jll.jl/releases/download/MLX-v0.25.1+0/MLX.v0.25.1.x86_64-unknown-freebsd.tar.gz"
 [[MLX]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "187e77e374d6727978a6dbde90348afd94baa1cd"
+git-tree-sha1 = "6794cc6d1e641c89bd645d6c1acf9c945007b380"
 os = "windows"
 
     [[MLX.download]]
-    sha256 = "6bcfc655acf839898b56d095dea59eafc352024463547d2690ea9527c2dd6997"
-    url = "https://github.com/JuliaBinaryWrappers/MLX_jll.jl/releases/download/MLX-v0.24.2+0/MLX.v0.24.2.x86_64-w64-mingw32-cxx03.tar.gz"
+    sha256 = "dacf7e2a1304e0aca95a3fd509d3b8af8aaa9cee720707f30199e28cb8d6de73"
+    url = "https://github.com/JuliaBinaryWrappers/MLX_jll.jl/releases/download/MLX-v0.25.1+0/MLX.v0.25.1.x86_64-w64-mingw32-cxx03.tar.gz"
 [[MLX]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ca32eda51fc2cd2b09341497e577548398dc4417"
+git-tree-sha1 = "49cbb708c15c329e6d1adad125d642a60ac11215"
 os = "windows"
 
     [[MLX.download]]
-    sha256 = "9e0868cb04501811bda20d1c77f615ba61cdc4e518f834c17bbec651c141a260"
-    url = "https://github.com/JuliaBinaryWrappers/MLX_jll.jl/releases/download/MLX-v0.24.2+0/MLX.v0.24.2.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "8ea7a9dab82ed9fe2238a42660c85de6e48ece32c5190ee12da0f24d38bc0864"
+    url = "https://github.com/JuliaBinaryWrappers/MLX_jll.jl/releases/download/MLX-v0.25.1+0/MLX.v0.25.1.x86_64-w64-mingw32-cxx11.tar.gz"
